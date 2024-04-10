@@ -1,0 +1,13 @@
+html, body {
+  margin: auto;
+  padding: auto;
+  background-color:#aac4c3;
+  color:rgb(88, 0, 0);
+  text-align: center;
+  width:70%;
+  font-family: monospace;
+}
+canvas {
+  margin:auto;
+  display: block;
+}
